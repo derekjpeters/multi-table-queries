@@ -13,11 +13,11 @@ This project demonstrates how to use **multi-table queries** in a relational dat
 
 multi-table-queries/ 
 ├── db/ │ 
-├── db.js # Sets up SQLite DB, runs schema and seed │ 
-├── schema.sql # SQL to create tables 
-│ └── seed.sql # SQL to insert sample data 
+    ├── db.js # Sets up SQLite DB, runs schema and seed │ 
+    ├── schema.sql # SQL to create tables 
+    │ └── seed.sql # SQL to insert sample data 
 ├── queries/ 
-│ └── joins.js # JS file that runs a JOIN query 
+    │ └── joins.js # JS file that runs a JOIN query 
 ├── package.json 
 ├── README.md
 
