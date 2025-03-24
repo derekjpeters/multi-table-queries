@@ -1,0 +1,5 @@
+node_modules/
+*.db
+.envnode_modules/
+.env
+*.db
