@@ -11,13 +11,16 @@ This project demonstrates how to use **multi-table queries** in a relational dat
 
 ## 🗂 Project Structure
 
+ ```bash
 multi-table-queries/ 
-├── db/ │ 
-    ├── db.js # Sets up SQLite DB, runs schema and seed │ 
-    ├── schema.sql # SQL to create tables 
-    │ └── seed.sql # SQL to insert sample data 
+├── db/
+    └── 
+        ├── db.js # Sets up SQLite DB, runs schema and seed │ 
+        ├── schema.sql # SQL to create tables 
+        ├── seed.sql # SQL to insert sample data 
 ├── queries/ 
-    │ └── joins.js # JS file that runs a JOIN query 
+    └── 
+        ├── joins.js # JS file that runs a JOIN query 
 ├── package.json 
 ├── README.md
 
@@ -29,5 +32,5 @@ multi-table-queries/
    ```bash
    npm install
    npm install sqlite3
-   
+
 
