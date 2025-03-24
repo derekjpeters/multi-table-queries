@@ -23,7 +23,7 @@ multi-table-queries/
         ├── joins.js # JS file that runs a JOIN query 
 ├── package.json 
 ├── README.md
-
+```
 
 ## 🛠 Installation & Setup
 
@@ -32,5 +32,5 @@ multi-table-queries/
    ```bash
    npm install
    npm install sqlite3
-
+```
 
