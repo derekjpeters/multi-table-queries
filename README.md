@@ -28,4 +28,6 @@ multi-table-queries/
 2. Install dependencies:
    ```bash
    npm install
+   npm install sqlite3
+   
 
