@@ -27,7 +27,7 @@ multi-table-queries/
 
 ## 🛠 Installation & Setup
 
-1. Clone this repo (instructions below)
+1. Clone this repo
 2. Install dependencies:
    ```bash
    npm install
