@@ -32,5 +32,5 @@ multi-table-queries/
    ```bash
    npm install
    npm install sqlite3
-```
+
 
